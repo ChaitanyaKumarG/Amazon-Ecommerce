@@ -1,0 +1,82 @@
+#sidebar{
+    box-shadow:0 0 0 10000px rgba(0, 0, 0, 0.814);
+    
+   }
+ .signinbutton {
+     background-color: orange;
+     border: none;
+     margin-top: 10px;
+     padding: 3px;
+     width: 300px;
+     border-radius: 8px;
+ } 
+.webpagebody{
+    background-image: url(https://m.media-amazon.com/images/I/71cQMXCLSvL._SX3000_.jpg);
+    background-size: cover;
+    width: 98.89vw;
+    height: 58vh;
+}
+.es{
+    height: 250px;
+}
+a:hover{
+    color: red;
+
+}
+.downsection{
+    
+}
+.subbmitt a:hover{
+    color: black;
+    
+}
+.zoom:hover{
+    color: purple;
+       
+}
+.checked{
+    color: orange;
+}
+
+.dropdown-items{
+    display: none;
+}
+
+.dropdown:hover .dropdown-items{
+    display: block;
+} 
+
+.dropdown-items a{
+    text-decoration-line: none;
+}
+
+
+
+.hidesidebar{
+ 
+       display:none;
+       
+}
+.showsidebar{
+   
+    display:block;
+    
+}
+
+
+
+.close_Symbol{
+    position: relative;
+}
+.close_Symbol svg{
+    position: absolute;
+    top: 15px;
+    left: 380px;
+}
+
+.searchbox input:focus  {
+     outline: none;
+     }
+.none:hover{
+    background-color: rgba(0, 0, 0, 0.050);
+}
